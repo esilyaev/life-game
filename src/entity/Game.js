@@ -1,5 +1,3 @@
-import { WindowOutlined } from "@mui/icons-material";
-
 const BOARD_SIZE = 30;
 
 export class GameOfLife {
